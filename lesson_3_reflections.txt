@@ -8,4 +8,10 @@ Git automatically stay up-to-date with your remote repository?
 Because I might want to choose what changes I want to pull from the remote 
 repository instead of every change.
 
+3.Describe the differences between forks, clones, and branches. When would 
+you use one instead of another?
+'fork' is to copy a repo to github of your account
+'clones' is to download repo on github or local to local
+'branches' is to create another path for the same repo
+
 
